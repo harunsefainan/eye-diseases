@@ -45,7 +45,7 @@ For the desired model training, users can choose one of the following models: CN
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" width="150" height="" alt="Python" title="Python" class="img-small">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" width="100" height="" alt="Spyder" title="Spyder" class="img-small">
       <img src="https://www.kaggle.com/static/images/site-logo.svg" height="50" width="100"alt="Swagger" title="OpenAPI 2.0.4" class="img-small">
-      <img src="https://variwiki.com/images/archive/4/4e/20211220183943%21Qt_logo.png" height="50" width="70"alt="Qt Designer" title="OpenAPI 2.0.4" class="img-small">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Qt_logo_2013.svg" height="50" width=""alt="Qt Designer" title="OpenAPI 2.0.4" class="img-small">
    </p>
    
   <hr>
