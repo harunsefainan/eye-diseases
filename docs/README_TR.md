@@ -15,9 +15,10 @@
 
 ## Projeye Genel Bakış
 
+
 Projedeki özellikler, kullanıcı tarafından sağlanan değerlere göre veri setini eğitim, test ve doğrulama setlerine bölmeyi mümkün kılar. Kullanıcılar, parti boyutu, epoklar ve erken durdurma kriterlerini belirleyebilirler. Ayrıca, proje kullanıcı tercihlerini veri artırma işlemleri ve parametreleri için uygular ve kullanıcı tanımlı isme dayalı bir model kontrol noktası oluşturmayı sağlar.
 
-İstenen model eğitimi için kullanıcılar, şu modellerden birini seçebilirler: CNN hold-out, CNN k-fold, Xception, MobileNetV2 veya ResNet101. Model eğitiminden sonra, kullanıcılar eğitim sonuçlarını ve karmaşıklık matrisini görüntüleyebilirler. Ayrıca, test, eğitim ve doğrulama klasörlerinden görüntüler inceleyebilirler. Seçilen görüntüye göre, kullanıcılar farklı modeller arasında karşılaştırma yapabilir ve tahmin sonuçlarını görüntüleyebilirler.
+Projede, göz hastalıkları için özel olarak tasarlanmış bir model eğitimi yapılmıştır. İstenen model eğitimi için kullanıcılar, şu modellerden birini seçebilirler: CNN hold-out, CNN k-fold, Xception, MobileNetV2 veya ResNet101. Model eğitiminden sonra, kullanıcılar eğitim sonuçlarını ve karmaşıklık matrisini görüntüleyebilirler. Ayrıca, test, eğitim ve doğrulama klasörlerinden görüntüler inceleyebilirler. Seçilen görüntüye göre, kullanıcılar farklı modeller arasında karşılaştırma yapabilir ve tahmin sonuçlarını görüntüleyebilirler.
 
 ## Başlangıç
 

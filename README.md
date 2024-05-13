@@ -15,9 +15,10 @@
 </div>
 
 ## Project Overview
-The project's features allow it to split the dataset into train, test, and validation sets based on values provided by the user. Users can specify the batch size, epochs, and early stopping criteria. Additionally, the project accommodates user preferences for data augmentation operations and their parameters, enabling the creation of a model checkpoint based on the user-defined name.
 
-For the desired model training, users can choose one of the following models: CNN hold-out, CNN k-fold, ResNet50, VGG16, or VGG19. After training the model, users can view the training results and the confusion matrix. They can also inspect images from the test, train, and validation folders. Based on the selected image, users can compare and view prediction results among the different models.
+The project's features enable the partitioning of the dataset into training, testing, and validation sets based on user-provided values. Users can specify parameters such as batch size, epochs, and early stopping criteria. Additionally, the project applies user preferences for data augmentation operations and parameters, allowing for the creation of a model checkpoint based on user-defined names.
+
+This project specifically focuses on training a model for eye diseases. Users can choose one of the following models for desired model training: CNN hold-out, CNN k-fold, Xception, MobileNetV2, or ResNet101. After model training, users can view the training results and confusion matrix. They can also inspect images from the test, training, and validation folders. Based on the selected image, users can compare different models and view prediction results.
 
 ## Getting Started
 
