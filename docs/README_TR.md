@@ -27,7 +27,7 @@ Projede, göz hastalıkları için özel olarak tasarlanmış bir model eğitimi
 - Bu uygulama Veri Kümesi gerektirir.
 - Dataset'i indirip yüklemek için lütfen aşağıdaki bağlantıya tıklayın: [Dataset](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification)
 
-### Running the application
+### Uygulamayı Çalıştırma
 
 - Repoyu klonlayın
    ```sh
